@@ -35,13 +35,11 @@ const Testimonials = () => {
                         Excellent course of materials
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        kya solid bussiness hai mein ne isay join kr k buhat kuch sikha hai maza aagya
                       </p>
 
                       <div className="student__info mt-4">
-                        <h6 className="fw-bold">Jhon Doe</h6>
+                        <h6 className="fw-bold">Muaz Aslam</h6>
                         <p>California, United State</p>
                       </div>
                     </div>
@@ -50,7 +48,7 @@ const Testimonials = () => {
                   <div>
                     <div className="single__testimonial">
                       <h6 className="mb-3 fw-bold">
-                        Excellent course of materials
+                        kya baat hai
                       </h6>
                       <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -68,12 +66,10 @@ const Testimonials = () => {
                   <div>
                     <div className="single__testimonial">
                       <h6 className="mb-3 fw-bold">
-                        Excellent course of materials
+                       website to achi hai
                       </h6>
                       <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Facilis saepe id voluptas molestiae. Aperiam corrupti
-                        voluptas earum at molestiae neque!
+                        hahahhahahahahhahahahajjahahahahhahahahaha
                       </p>
 
                       <div className="student__info mt-4">

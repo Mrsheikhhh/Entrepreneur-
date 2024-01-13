@@ -11,12 +11,11 @@ const HeroSection = () => {
           <Col lg="6" md="6">
             <div className="hero__content">
               <h2 className="mb-4 hero__title">
-                Anytime Anywhere <br /> Learn on your <br /> Suitable Schedule
+                Career Consultant <br /> Develop Your<br /> Personality 
               </h2>
               <p className="mb-5">
-                Lorem ipsum dolor sit amet consectetur <br /> adipisicing elit.
-                Aut saepe voluptatum earum delectus <br /> deserunt id iste,
-                quas officiis et repellat!
+                Yeh apna front page hai bhai logggfg <br /> adipisicing elit.
+                ider kuch likh dein gay<br /> hahahahhahaha!
               </p>
             </div>
             <div className="search">

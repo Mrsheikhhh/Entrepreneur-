@@ -20,9 +20,7 @@ const AboutUs = () => {
             <div className="about__content">
               <h2>About Us</h2>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Excepturi cupiditate animi deserunt libero nesciunt corporis
-                explicabo nobis ex quo molestiae!
+                We are students from UCP showcasing our entrepreneur project Four_A which is a career Consultancy and personality development project 
               </p>
 
               <div className="about__counter">
@@ -32,7 +30,7 @@ const AboutUs = () => {
                       <CountUp start={0} end={25} duration={2} suffix="K" />
                     </span>
 
-                    <p className="counter__title">Completed Projects</p>
+                    <p className="counter__title">What We Offer</p>
                   </div>
 
                   <div className="single__counter">
@@ -40,17 +38,17 @@ const AboutUs = () => {
                       <CountUp start={0} end={12} duration={2} suffix="M" />
                     </span>
 
-                    <p className="counter__title">Patient Around World</p>
+                    <p className="counter__title">Our Custimers </p>
                   </div>
                 </div>
 
                 <div className=" d-flex gap-5 align-items-center">
-                  <div className="single__counter">
+                  <div className="Yaha kya likhu">
                     <span className="counter">
                       <CountUp start={0} end={95} duration={2} suffix="M" />
                     </span>
 
-                    <p className="counter__title">Ideas Raised Funds</p>
+                    <p className="counter__title">Ali Don</p>
                   </div>
 
                   <div className="single__counter">
@@ -58,7 +56,7 @@ const AboutUs = () => {
                       <CountUp start={0} end={5} duration={2} suffix="K" />
                     </span>
 
-                    <p className="counter__title">Categories Served</p>
+                    <p className="counter__title">Aftab Don</p>
                   </div>
                 </div>
               </div>

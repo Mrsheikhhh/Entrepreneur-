@@ -15,14 +15,8 @@ const ChooseUs = () => {
           <Col lg="6" md="6">
             <div className="choose__content">
               <h2>Why Choose Us</h2>
-              <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Incidunt mollitia nostrum harum eos praesentium odit a sed quod
-                aut fugit. Lorem ipsum dolor sit amet consectetur adipisicing
-                elit. Reprehenderit omnis, culpa eligendi inventore perspiciatis
-                minus. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dolores cupiditate facilis provident quidem accusamus impedit
-                tenetur laboriosam debitis nisi eius!
+              <p>.
+                Q k hamaare paas hurairah Don hai jis se koi panga na lein agar usay apni jaan pyari hai to
               </p>
             </div>
           </Col>
